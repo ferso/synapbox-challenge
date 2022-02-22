@@ -30,7 +30,7 @@ export class UpdateItemRequest {
 
   isNumeric(value) {
     if (isNaN(value)) {
-      throw new ValidRequiredException('parent id is required');
+      throw new ValidRequiredException('parent id is not a valid integer');
     }
   }
 }
