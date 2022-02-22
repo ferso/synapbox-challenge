@@ -1,6 +1,10 @@
 # synapbox-challange
 
-Synapbox Services Code Challenge
+Synapbox Services Code Challenge 
+
+What is missing:
+- Handle Events
+
 
 ##### .env
 
